@@ -2,7 +2,7 @@
 - 👀 I’m interested in working as as programmer and creating helful projects for people.
 - 🌱 I’m currently learning Python, zsh, bash
 - 💞️ I’m looking to collaborate on some python projects
-- 📫 How to reach me Lust_Krieg everywhere
+- 📫 How to reach me: Lust_Krieg everywhere
 - 😄 Pronouns: Bruh
 - ⚡ Fun fact: like nachos and orange juice
 
