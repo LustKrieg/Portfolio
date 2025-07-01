@@ -37,6 +37,6 @@ Hi! I'm a Python backend developer. I’m learning frameworks, databases, and bu
 
 ## 📫 Контакты | Contacts
 
-- Telegram: [@yourhandle](https://t.me/lust_krieg)
+- Telegram: [@lust_krieg](https://t.me/lust_krieg)
 - Email: jakson6233@gmail.com
 - GitHub: [github.com/LustKrieg](https://github.com/LustKrieg)
