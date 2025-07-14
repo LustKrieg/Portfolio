@@ -59,8 +59,9 @@ Hi! I'm a Python backend developer. I’m learning frameworks, databases, and bu
 
 ## 📄 Резюме | Resume
 
-- [📄 CV на русском (PDF)](https://github.com/LustKrieg/portfolio/blob/main/CV/CV_ru.pdf)
-- [📄 CV in English (PDF)](https://github.com/LustKrieg/portfolio/blob/main/CV/CV_en.pdf)
+- [🇬🇧 English CV (PDF)](https://github.com/yourusername/portfolio/blob/main/CV/Evgeny_Data_Intern_CV_EN_v2.pdf?raw=true)
+- [🇷🇺 Резюме на русском (PDF)](https://github.com/yourusername/portfolio/blob/main/CV/Evgeny_Data_Intern_CV_RU_v2.pdf?raw=true)
+
 ---
 
 ## 📫 Контакты | Contacts
