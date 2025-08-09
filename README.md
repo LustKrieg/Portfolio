@@ -1,9 +1,9 @@
-# 🇷🇺 Евгений | Python Backend Developer 🇺🇸
+# 🇷🇺 Евгений Разработчик бэкэнда на Python | Eugene Python Backend Developer 🇺🇸
 
 ## 👨‍💻 О себе | About Me
 Привет! Я backend-разработчик на Python. Изучаю фреймворки, базы данных и создаю реальные проекты для портфолио. Моя цель — получить работу в IT и развиваться в backend-направлении.
 
-Hi! I'm a Python backend developer. I’m learning frameworks, databases, and building real-world projects. My goal is to land my job in IT and grow in backend engineering.
+Hi! I'm a Python backend developer. I’m learning frameworks, databases, and building real-world projects. My goal is to land my job in IT and grow in backend area.
 
 ---
 
