@@ -11,9 +11,10 @@ Hi! I'm a Python backend developer. I’m learning frameworks, databases, and bu
 
 | Название / Name | Описание / Description | Ссылка / Link |
 |-----------------|------------------------|---------------|
-| Blog API        | |
-| WeatherBot      | |
-| Task Manager    | |
+| To-Do List API  | |
+|  Not Stated Yet | |
+| Task Manager    | Task Manager using Docker, Git, SQLAlchemy | https://github.com/LustKrieg/i-tp-test.git
+
 
 ---
 
