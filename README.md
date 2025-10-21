@@ -11,9 +11,9 @@ Hi! I'm a Python backend developer. I’m learning frameworks, databases, and bu
 
 | Название / Name | Описание / Description | Ссылка / Link |
 |-----------------|------------------------|---------------|
-| To-Do List API  | |
+| Task Manager               | Desktop Task Manager using SQLite3, Tkinter, tkmacosx | https://github.com/LustKrieg/Task-Manager
 |  Not Stated Yet | |
-| Task Manager    | Task Manager using Docker, Git, SQLAlchemy | https://github.com/LustKrieg/i-tp-test.git
+| Order Management System    | Order Management System using Docker, Git, SQLAlchemy | https://github.com/LustKrieg/i-tp-test.git
 
 
 ---
